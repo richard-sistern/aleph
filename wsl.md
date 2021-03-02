@@ -1,5 +1,11 @@
 # Windows Subsystem for Linux
 
+## Versions
+
+Basically, use version 2.  This [feature comparison](https://docs.microsoft.com/en-us/windows/wsl/compare-versions) will explain why.  Here's how to [install and update](https://docs.microsoft.com/en-us/windows/wsl/install-win10).
+
+
+
 ## Commands
 
 List installed distributions
