@@ -46,6 +46,11 @@ cd ~
 explorer.exe .
 ```
 
+Determine OS version with
+```bash
+cat /etc/os-release
+```
+
 ## References
 
 - [Ruby on Rails on Windows is not just possible, it's fabulous using WSL2 and VS Code](https://www.hanselman.com/blog/ruby-on-rails-on-windows-is-not-just-possible-its-fabulous-using-wsl2-and-vs-code)
