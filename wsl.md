@@ -4,9 +4,13 @@
 
 Basically, use version 2.  This [feature comparison](https://docs.microsoft.com/en-us/windows/wsl/compare-versions) will explain why.  Here's how to [install and update](https://docs.microsoft.com/en-us/windows/wsl/install-win10).
 
+Determining which version you have isn't intuitive.  If `wsl -l -v` fails to provide a list of versions then you are likely on version 1.  The command will only output the following if version 2 has been installed:
 
+![wsl_list_versions](.\images\wsl_list_versions.png)
 
-## Commands
+When upgrading to version 2, you may have to uninstall and reinstall as per these [instructions](https://www.digitalocean.com/community/posts/trying-the-new-wsl-2-its-fast-windows-subsystem-for-linux).
+
+## WSL Commands
 
 List installed distributions
 
@@ -14,10 +18,24 @@ List installed distributions
 wsl --list --all
 ```
 
+List installed distributions with version
+
+```shell
+wsl --list --v
+```
+
 Upgrade a distribution
 
 ```shell
 wsl --upgrade Ubuntu
+```
+
+## Linux Commands
+
+You should patch Ubuntu regularly
+
+```bash
+sudo apt-get update && sudo apt-get upgrade
 ```
 
 
