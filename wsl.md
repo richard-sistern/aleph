@@ -38,8 +38,13 @@ You really shouldn't be running an out of date OS, so make sure to patch Ubuntu 
 sudo apt-get update && sudo apt-get upgrade
 ```
 
+Navigate to home folder and open explorer
 
+```bash
+cd ~
 
+explorer.exe .
+```
 
 ## References
 
