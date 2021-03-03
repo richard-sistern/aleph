@@ -32,7 +32,7 @@ wsl --upgrade Ubuntu
 
 ## Linux Commands
 
-You should patch Ubuntu regularly
+You really shouldn't be running an out of date OS, so make sure to patch Ubuntu regularly with
 
 ```bash
 sudo apt-get update && sudo apt-get upgrade
