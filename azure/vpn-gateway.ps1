@@ -100,3 +100,6 @@ $profile.VPNProfileSASUrl
 # Download and install the VPN settings from the URL provided above and verify with
 # IPCONFIG /All
 # Check the PPP vNetData dapater is in the VPNClient Address pool range of 192.16.201.0/24
+
+# Cleanup
+Remove-AzResourceGroup -Name VpnGatewayDemo

@@ -53,3 +53,6 @@ ping dataProcStage2 -4
 # Enable the File and Printer Sharing (Echo Request - ICMPv4-In) Inbound Rule
 
 ping dataProcStage2 -4
+
+# Cleanup
+Remove-AzResourceGroup -Name vm-networks
