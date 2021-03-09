@@ -26,6 +26,9 @@ Re-certification is every 3 years.  A **discount** is available in the benefits 
 - IAM roles are easier and safer than keys and passwords
 - Monitor metrics across the system
 - Provide alerts for anomalous consideration
+- Lock down AWS account root user
+- Security groups only allow.  Network ACLs allow explicit deny
+- Prefer IAM Roles to access keys
 
 ## Services and Concepts
 
