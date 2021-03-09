@@ -232,6 +232,12 @@ Security group is associated with an elastic network interface and only support 
 
 Network ACLs are associated with a subnet and supports allow and deny rules.  Stateless (have to allow both in and out)
 
+### Cost Optimisation
+
+Serverless provides an opportunity to reduce compute spend.
+
+The are no costs between S3 and CloudFront.  This can also reduce compute on EC2 instances.
+
 
 
 
