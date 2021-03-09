@@ -2,7 +2,12 @@
 
 *Architect and deploy secure and robust solutions on AWS*
 
-[AWS exam resources](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+Useful Links
+
+- [AWS exam resources](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+- [AWS training and certification](https://aws.amazon.com/training/)
+- [Self-paced labs](https://aws.amazon.com/training/self-paced-labs/)
+- [Exam preparation](https://aws.amazon.com/certification/certification-prep/)
 
 Re-certification is every 3 years.  A **discount** is available in the benefits section of the certification site.
 
@@ -29,6 +34,10 @@ Re-certification is every 3 years.  A **discount** is available in the benefits 
 - Lock down AWS account root user
 - Security groups only allow.  Network ACLs allow explicit deny
 - Prefer IAM Roles to access keys
+- If you know it's going to be on, reserve it
+- Determine the most cost-effective EC2 pricing model and instance type for each workload
+- Unused CPU time is a waste of money
+- Use the most cost-effective data storage service and class
 
 ## Services and Concepts
 
@@ -237,6 +246,8 @@ Network ACLs are associated with a subnet and supports allow and deny rules.  St
 Serverless provides an opportunity to reduce compute spend.
 
 The are no costs between S3 and CloudFront.  This can also reduce compute on EC2 instances.
+
+Reserved and spot EC2 instances
 
 
 
