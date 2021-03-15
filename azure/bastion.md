@@ -12,7 +12,11 @@ az network vnet subnet create \
 
 Create a public IP address
 ```bash
-
+az network public-ip create
+  --resource-group MyResourceGroup \
+  --name MyPublicIp \
+  --sku Standard \
+  --location westus2
 ```
 
 Create the Bestion resource
