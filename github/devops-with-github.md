@@ -1,0 +1,45 @@
+# DevOps with GitHub
+
+*Notes from Azure training day*
+
+"The union of people, process and products to enable continuous delivery of value to your end users" - Donovan Brown
+
+Three pillars:
+
+- People
+- Process
+- Product
+
+**Process**
+
+1. Plan
+2. Develop
+3. Deliver
+4. Operate
+
+Link with Teams via GitHub for Teams, also an Enterprise version.
+
+**Further Reading**
+
+aka.ms/all-things-devops
+
+aka.ms/getting-started-devops
+
+Main trunk development with feature flags with Kanban swim lane for PR's.  Short-lived feature branches.  Workflow based on GitHub actions.
+
+Fail fast then course correct.
+
+**CI**
+
+- Your changes work with other changes
+- Your code still builds
+- You tests still run
+
+*Code linting happens here*
+
+**CD**
+
+- You have work that will deploy
+- Including infrastructure and dependencies
+- Everything you need to deploy
+
