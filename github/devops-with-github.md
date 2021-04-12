@@ -43,3 +43,10 @@ Fail fast then course correct.
 - Including infrastructure and dependencies
 - Everything you need to deploy
 
+**Deployment Slots**
+
+Allows testing of new releases with traffic redirection.  Also covers phased migration, A/B deployment.
+
+**Handling Secrets**
+
+GitHub Secrets, repository specific and set  in `Settings \ Secrets`
