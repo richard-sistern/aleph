@@ -49,4 +49,4 @@ Allows testing of new releases with traffic redirection.  Also covers phased mig
 
 **Handling Secrets**
 
-GitHub Secrets, repository specific and set  in `Settings \ Secrets`
+GitHub Secrets, repository specific and set  in `Settings \ Secrets`.  Azure Key Vault provides a central place to manage secrets.git
