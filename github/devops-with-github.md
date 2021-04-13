@@ -50,3 +50,18 @@ Allows testing of new releases with traffic redirection.  Also covers phased mig
 **Handling Secrets**
 
 GitHub Secrets, repository specific and set  in `Settings \ Secrets`.  Azure Key Vault provides a central place to manage secrets.git
+
+**Security and Compliance**
+
+- Dependency insights
+- Vulnerability Management
+- CodeQL
+
+Setup a `Security Policy` in GitHub with Dependabot and code scanning.
+
+Dockerfile, set commands to run as `USER 1000`.  Some applications will require additional permissions. 
+
+**Automation**
+
+Azure Logic App with Teams integration for ChatOps
+
