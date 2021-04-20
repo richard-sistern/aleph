@@ -41,4 +41,11 @@ Docker and Kubernetes are integrated into vSphere 7.0:
 
 Unlike Active Directory, roles and permissions apply in `union` rather than least privilege.  For example, all + none = all permissions.  
 
-However, like Active Directory, object precedence still applies.  This includes user objects.
+However, like Active Directory, object precedence still applies.  This includes user objects. For example, permissions applied to user take precedence over any group membership.
+
+### Backup
+
+Backup via the vCenter Server Appliance Management Interface.
+
+Use vCenter Server HA to create replica vCenter servers
+
