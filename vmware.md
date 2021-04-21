@@ -49,3 +49,28 @@ Backup via the vCenter Server Appliance Management Interface.
 
 Use vCenter Server HA to create replica vCenter servers
 
+### Networking
+
+**Policy Levels**
+
+Standard switch: default policies for all ports
+
+Port group: effective polices which override the default policy
+
+**Policies**
+
+- Promiscuous mode: allow a virtual switch or port group to forward all traffic regardless of destination
+- MAC address changes: accept or reject `inbound` traffic when the MAC address is altered by the guest
+- Forged transmits: accept or reject `outbound` traffic when the MAC address is altered by the guest
+
+*All set to reject by default*
+
+**Load Balancing**
+
+- Originating Virtual Port ID: map VM outbound traffic to specific physical NIC based on the originating virtual port ID.  Random assignment
+- Source MAC Hash: map the outbound traffic for each VM to a specific physical NIC.  Assignment based on hash, therefore does a better job than random assignment but requires a bit more CPU
+- Source and Destination IP Hash: a NIC for each outbound packet is selected based on the source and destination IP addresses.  Requires 802.3ad link aggregation protocol on physical switch
+
+**Handling Failure**
+
+The VMkernal can use `link status` or `beaconing` (or both) to detect a network failure
