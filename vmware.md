@@ -74,3 +74,15 @@ Port group: effective polices which override the default policy
 **Handling Failure**
 
 The VMkernal can use `link status` or `beaconing` (or both) to detect a network failure
+
+### Storage
+
+Datastores should preferably have a 1:1 mapping to LUNs.  Possible for a datastore to be spread across multiple LUNs but not recommended
+
+### VMotion
+
+**Requirements**
+
+- Shared storage
+- Shared VMkernal ports
+- No connection to mounted local virtual (ISO) device
