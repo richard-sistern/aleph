@@ -79,10 +79,12 @@ The VMkernal can use `link status` or `beaconing` (or both) to detect a network 
 
 Datastores should preferably have a 1:1 mapping to LUNs.  Possible for a datastore to be spread across multiple LUNs but not recommended
 
-### VMotion
+### vMotion
 
 **Requirements**
 
 - Shared storage
-- Shared VMkernal ports
+- Shared VMkernal ports with vSphere vMotion enabled
 - No connection to mounted local virtual (ISO) device
+- IPv4 || IPv6 to same only
+- CPU compatibility (no Intel to AMD migration)
