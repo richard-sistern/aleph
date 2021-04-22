@@ -115,5 +115,7 @@ Use `esxtop` within ESXi shell or remotely with `resxtop` in vSphere CLI
 
 - Networking - dropped packets (ensure vNICs are utilising VMSNET3)
 
+- DRS score (higher is better)
+
   
 
