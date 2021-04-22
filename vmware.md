@@ -88,3 +88,32 @@ Datastores should preferably have a 1:1 mapping to LUNs.  Possible for a datasto
 - No connection to mounted local virtual (ISO) device
 - IPv4 || IPv6 to same only
 - CPU compatibility (no Intel to AMD migration)
+
+### Resource Controls
+
+- A **reservation** guarantees a minimum allocation
+- A **limit** provides an upper boundary
+- A **share** specifies the relative priority, or importance when accessing a given resource
+
+VMware Tools provides VM processor and memory objects in Perfmon
+
+Use `esxtop` within ESXi shell or remotely with `resxtop` in vSphere CLI
+
+**Contention Metrics**
+
+- CPU usage chart for host
+
+- Total CPU utilisation per VM in stacked graph
+
+- VM CPU readiness (waiting for CPU).  Lower is better
+
+- Memory on VM - active, ballooned, consumed, granted
+
+- Memory on host - ballooned, swap
+
+- Storage - read/write rate and read/write latency.  Kernel command latency (> 2-3 ms is an overworked array or host).  Physical device command latency (HDD > 15-20 ms, SSD > 3-4ms is an indication of overworked array)
+
+- Networking - dropped packets (ensure vNICs are utilising VMSNET3)
+
+  
+
