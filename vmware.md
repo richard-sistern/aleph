@@ -119,3 +119,8 @@ Use `esxtop` within ESXi shell or remotely with `resxtop` in vSphere CLI
 
   
 
+### vSphere HA
+
+- Default VM restart priority; start up is performed alphabetically unless set
+- Performance degradation VMs tolerate; raises a warning if there is insufficient failover capacity
+- Orchestrated restart; start up order for dependent VMs.  Has to be on same host
