@@ -2,6 +2,10 @@
 
 *Always something else to learn...*
 
+## General
+
+- Configure and Operate Linux Servers - [Full Course](https://www.freecodecamp.org/news/linux-server-course-system-configuration-and-operation/)
+
 ## Development
 
 ### GraphQL
