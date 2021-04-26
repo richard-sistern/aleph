@@ -20,8 +20,11 @@
 ### Python
 
 - [Build an e-Commerce site in Django and Vue](https://www.freecodecamp.org/news/create-an-e-commerce-site-with-django-and-vue/)
+- [How to Analyse Data with Python](https://www.freecodecamp.org/news/how-to-analyze-data-with-python-pandas/)
 
+### Rails
 
+- [Ruby on Rails Controller Patterns and Anti-patterns](https://blog.appsignal.com/2021/04/14/ruby-on-rails-controller-patterns-and-anti-patterns.html?utm_source=boostedblogpost&utm_medium=twitter&utm_campaign=2021-04-14)
 
 ### HTML/CSS/JS
 
@@ -31,6 +34,7 @@
 ### JS
 
 - [Learn Node.js and Express](https://www.freecodecamp.org/news/free-8-hour-node-express-course/)
+- [Learn How to Create an Instagram Clone Using React](https://www.freecodecamp.org/news/learn-how-to-create-an-instagram-clone-using-react/)
 
 ## DevOps
 
