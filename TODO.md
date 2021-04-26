@@ -31,6 +31,8 @@
 
 - [Ansible](https://www.ansible.com/)
 - [Kubernetes Tutorial for Beginners](https://youtu.be/X48VuDVv0do)
+- [Kubernetes Handbook](https://www.freecodecamp.org/news/the-kubernetes-handbook/)
+- [Docker Handbook](https://www.freecodecamp.org/news/the-docker-handbook/)
 
 ### CI/CD
 
