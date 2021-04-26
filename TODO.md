@@ -23,9 +23,14 @@
 
 
 
-### HTML/CSS
+### HTML/CSS/JS
 
 - [3D animated book with HTML and CSS](https://www.youtube.com/watch?v=rnqwrmBMrnw)
+- [Learn CSS, HTML and JavaScript](https://codingfantasy.com/)
+
+### JS
+
+- [Learn Node.js and Express](https://www.freecodecamp.org/news/free-8-hour-node-express-course/)
 
 ## DevOps
 
