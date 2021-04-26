@@ -11,6 +11,7 @@
 ### GraphQL
 
 - [Overview and learning resources](https://egghead.io/q/graphql)
+- [How Netflix Scales Its API with GraphQL Federation](https://youtu.be/QrEOvHdH2Cg)
 - [Building a Store Catalogue Management System using Appsmith and GraphQL](https://blog.appsmith.com/building-a-store-catalogue-management-system-using-appsmith-and-graphql)
 - [GraphQL with Apollo](https://odyssey.apollographql.com/)
 - [Full stack Tutorial for GraphQL](https://www.howtographql.com/)
@@ -58,3 +59,9 @@
 
 - [DevOps](https://azure.microsoft.com/en-gb/services/devops/)
 - [Azure Resource Manager (ARM)](https://www.red-gate.com/simple-talk/cloud/infrastructure-as-a-service/azure-resource-manager-arm-templates/)
+
+
+
+#### AWS
+
+- [AWS cloud basics](https://www.freecodecamp.org/news/learn-the-basics-of-amazon-web-services/)
