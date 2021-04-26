@@ -4,6 +4,15 @@
 
 ## Development
 
+### GraphQL
+
+- [Overview and learning resources](https://egghead.io/q/graphql)
+- [Building a Store Catalogue Management System using Appsmith and GraphQL](https://blog.appsmith.com/building-a-store-catalogue-management-system-using-appsmith-and-graphql)
+- [GraphQL with Apollo](https://odyssey.apollographql.com/)
+- [Full stack Tutorial for GraphQL](https://www.howtographql.com/)
+- [Introduction to GraphQL](https://graphql.org/learn/)
+- [GraphQL Hello World](https://www.youtube.com/watch?v=DyvsMKsEsyE)
+
 ### Python
 
 - [Build an e-Commerce site in Django and Vue](https://www.freecodecamp.org/news/create-an-e-commerce-site-with-django-and-vue/)
