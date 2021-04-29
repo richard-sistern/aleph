@@ -39,7 +39,8 @@
 
 ## DevOps
 
-[Career Guide](https://www.simplilearn.com/devops-career-guide-pdf)
+- [Career Guide](https://www.simplilearn.com/devops-career-guide-pdf)
+- [Roadmap](https://roadmap.sh/devops)
 
 ### Infrastructure Automation
 
