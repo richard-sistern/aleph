@@ -39,19 +39,38 @@
 
 ## DevOps
 
-[Career Guide](https://www.simplilearn.com/devops-career-guide-pdf)
+- [Career Guide](https://www.simplilearn.com/devops-career-guide-pdf)
+- [Roadmap](https://roadmap.sh/devops)
 
 ### Infrastructure Automation
 
 - [Ansible](https://www.ansible.com/)
+- [Docker Handbook](https://www.freecodecamp.org/news/the-docker-handbook/)
+
+### Kubernetes
+
 - [Kubernetes Tutorial for Beginners](https://youtu.be/X48VuDVv0do)
 - [Kubernetes Handbook](https://www.freecodecamp.org/news/the-kubernetes-handbook/)
-- [Docker Handbook](https://www.freecodecamp.org/news/the-docker-handbook/)
+- [K3d](https://k3d.io/)
+- [Crossplane](https://crossplane.io/)
 
 ### CI/CD
 
 - Jenkins
 - Bamboo
+
+### GitOps
+
+- [Flux](https://github.com/fluxcd/flux)
+- [Argo](https://argoproj.github.io/argo-cd/)
+
+### Logging
+
+- [Granfana Loki](https://grafana.com/oss/loki/)
+
+### Monitoring
+
+- [Prometheus](https://prometheus.io/)
 
 ### Cloud
 
