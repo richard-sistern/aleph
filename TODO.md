@@ -5,6 +5,7 @@
 ## General
 
 - Configure and Operate Linux Servers - [Full Course](https://www.freecodecamp.org/news/linux-server-course-system-configuration-and-operation/)
+- [The History of the HTTP Protocol](https://www.youtube.com/watch?v=o5FXMVeSgFI)
 
 ## Development
 
@@ -46,6 +47,7 @@
 
 - [Ansible](https://www.ansible.com/)
 - [Docker Handbook](https://www.freecodecamp.org/news/the-docker-handbook/)
+- [Learn Docker by Building a Node / Express App](https://www.freecodecamp.org/news/learn-docker-by-building-a-node-express-app/)
 
 ### Kubernetes
 
