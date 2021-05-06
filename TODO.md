@@ -5,6 +5,7 @@
 ## General
 
 - Configure and Operate Linux Servers - [Full Course](https://www.freecodecamp.org/news/linux-server-course-system-configuration-and-operation/)
+- [The History of the HTTP Protocol](https://www.youtube.com/watch?v=o5FXMVeSgFI)
 
 ## Development
 
