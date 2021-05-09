@@ -32,6 +32,7 @@
 
 - [3D animated book with HTML and CSS](https://www.youtube.com/watch?v=rnqwrmBMrnw)
 - [Learn CSS, HTML and JavaScript](https://codingfantasy.com/)
+- [Web Development for Beginners](https://t.co/EKv4oZ51O2)
 
 ### JS
 
