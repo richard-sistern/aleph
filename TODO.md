@@ -57,6 +57,7 @@
 - [Kubernetes Handbook](https://www.freecodecamp.org/news/the-kubernetes-handbook/)
 - [K3d](https://k3d.io/)
 - [Crossplane](https://crossplane.io/)
+- [KubeAcademy](https://kube.academy/)
 
 ### CI/CD
 
