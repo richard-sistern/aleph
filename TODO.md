@@ -58,6 +58,7 @@
 - [K3d](https://k3d.io/)
 - [Crossplane](https://crossplane.io/)
 - [KubeAcademy](https://kube.academy/)
+- [Learn Kubernetes networking and security fundamentals using Calico](https://academy.tigera.io/course/certified-calico-operator-level-1/)
 
 ### CI/CD
 
