@@ -59,6 +59,7 @@
 - [Crossplane](https://crossplane.io/)
 - [KubeAcademy](https://kube.academy/)
 - [Learn Kubernetes networking and security fundamentals using Calico](https://academy.tigera.io/course/certified-calico-operator-level-1/)
+- [How To Use Telepresence on Kubernetes for Rapid Development on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-use-telepresence-on-kubernetes-for-rapid-development-on-ubuntu-20-04)
 
 ### CI/CD
 
