@@ -9,6 +9,9 @@
 
 ## Development
 
+### API
+- [Advanced Rest Client](https://install.advancedrestclient.com/)
+
 ### GraphQL
 
 - [Overview and learning resources](https://egghead.io/q/graphql)
