@@ -9,6 +9,9 @@
 
 ## Development
 
+### API
+- [Advanced Rest Client](https://install.advancedrestclient.com/)
+
 ### GraphQL
 
 - [Overview and learning resources](https://egghead.io/q/graphql)
@@ -57,6 +60,10 @@
 - [Kubernetes Handbook](https://www.freecodecamp.org/news/the-kubernetes-handbook/)
 - [K3d](https://k3d.io/)
 - [Crossplane](https://crossplane.io/)
+- [KubeAcademy](https://kube.academy/)
+- [Learn Kubernetes networking and security fundamentals using Calico](https://academy.tigera.io/course/certified-calico-operator-level-1/)
+- [How To Use Telepresence on Kubernetes for Rapid Development on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-use-telepresence-on-kubernetes-for-rapid-development-on-ubuntu-20-04)
+- [How to Build a Kubernetes Development Environment](https://www.mirantis.com/kubernetes-lab/kubernetes-lab/how-to-build-a-kubernetes-development-environment/)
 
 ### CI/CD
 
@@ -75,6 +82,7 @@
 ### Monitoring
 
 - [Prometheus](https://prometheus.io/)
+- [Grafana](https://grafana.com/)
 
 ### Cloud
 
