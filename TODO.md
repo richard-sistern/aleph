@@ -15,6 +15,7 @@
 ### GraphQL
 
 - [Overview and learning resources](https://egghead.io/q/graphql)
+- [Let's code a Netflix Clone with GraphQL Pagination! Reviewed by a NETFLIX ENGINEER!](https://www.youtube.com/watch?v=g8COh40v2jU)
 - [How Netflix Scales Its API with GraphQL Federation](https://youtu.be/QrEOvHdH2Cg)
 - [Building a Store Catalogue Management System using Appsmith and GraphQL](https://blog.appsmith.com/building-a-store-catalogue-management-system-using-appsmith-and-graphql)
 - [GraphQL with Apollo](https://odyssey.apollographql.com/)
