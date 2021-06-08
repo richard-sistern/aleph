@@ -43,6 +43,10 @@
 - [Learn Node.js and Express](https://www.freecodecamp.org/news/free-8-hour-node-express-course/)
 - [Learn How to Create an Instagram Clone Using React](https://www.freecodecamp.org/news/learn-how-to-create-an-instagram-clone-using-react/)
 
+### Python
+
+- [Learn Python by Building 12 Projects](https://www.freecodecamp.org/news/learn-how-to-build-12-python-projects-in-one-course/)
+
 ## DevOps
 
 - [Career Guide](https://www.simplilearn.com/devops-career-guide-pdf)
