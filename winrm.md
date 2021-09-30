@@ -15,6 +15,8 @@ winrm enumerate winrm/config/listener
 
 ```powershell
 Get-NetFirewallRule -DisplayGroup "Windows Remote Management"
+
+Set-NetFirewallRule -Name  WINRM-HTTP-In-TCP-NoScope -Enabled True
 ```
 
 ### Testing
