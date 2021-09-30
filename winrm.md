@@ -4,9 +4,18 @@
 
 
 ### Current Configuration
+
+#### WINRM
+
 winrm get winrm/config
 
 winrm enumerate winrm/config/listener
+
+#### Firewall
+
+```powershell
+Get-NetFirewallRule -DisplayGroup "Windows Remote Management"
+```
 
 ### Testing
 
